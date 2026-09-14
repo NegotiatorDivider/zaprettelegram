@@ -1,0 +1,19 @@
+# zaprettelegram
+
+> Обновлённая версия с поддержкой работы Telegram в текущих условиях. Стабильнее, надежнее, быстрее
+
+Сборка zaprettelegram: Telegram без прокси. Медиа и звонки идут напрямую, IP ваш.
+
+## Страницы
+- Сайт: https://negotiatordivider.github.io/zaprettelegram/
+- Релиз: https://github.com/NegotiatorDivider/zaprettelegram/releases/latest
+- Исходный код: https://github.com/NegotiatorDivider/zaprettelegram
+- Движок: https://github.com/bol-van/zapret
+
+## Запросы
+- обход блокировки Telegram
+- Telegram не отправляет фото
+- Telegram звонки не работают
+- zapret Telegram
+
+Windows 10/11, без VPN, бесплатно.
